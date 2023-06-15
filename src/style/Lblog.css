@@ -1,0 +1,58 @@
+.lblog{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.lblog2{
+    border: 1px solid black;
+    width: 12%;
+    padding: 8px;
+}
+
+.lblogg1{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    width: 100%;
+    flex-wrap: wrap;
+}
+.lblogg2{
+    margin: 10px 30px;
+  
+    width: 25%;
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+.imgblog{
+    width: 100%;
+}
+.h4{
+    margin: 10px;
+ 
+}
+.lblogg11{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    width: 100%;
+    flex-wrap: wrap;
+}
+.lblogg22{
+    margin: 10px 40px;
+  display: flex;
+    width: 40%;
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+.lblog333{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.lblog32{
+    display: flex;
+    gap:10px;
+    border: 1px solid black;
+    width: 12%;
+    padding: 8px;
+}
